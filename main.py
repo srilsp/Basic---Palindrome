@@ -9,4 +9,4 @@ for a in range(9999, 100, -1):
             s = str(a * b)
             if s == s[::-1]: # end to beginning, counting down by 1
                 n = a * b
-print ("The Largest palindromic number made from the 3 digit number is:", n)
+print ("The Largest palindromic number made from the 3 digit number is:", n) #Printing 
